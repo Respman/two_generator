@@ -1,0 +1,13 @@
+{
+"description": "common view of the generator:z(n)=(a*z(n-1)+b) mod c", 
+"koeff_a1" : 1,
+"koeff_b1" : 1,
+"koeff_c1" : 1000,
+"koeff_a2" : 1,
+"koeff_b2" : 2,
+"koeff_c2" : 1000,
+"start_with_1" : 123,
+"start_with_2" : 124,
+"amount_of_exemplares" : 10,
+"directory's_name_for_teaching_set" : "simple_generator"
+}

@@ -1,0 +1,10 @@
+{ 
+"speed" : 0.3,
+"momentum" : 0.9,
+"amount of input neurons" : 25,
+"amount of output neurons" : 2,
+"amount of hide neurons" : [16,8],
+"part from teaching set" : 10,
+"directory_with_examples" : "simple_generator_examples",
+"weight_interval" : 0.1
+}
