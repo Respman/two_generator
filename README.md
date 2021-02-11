@@ -9,6 +9,6 @@ How to use this project:
 
 * train the network using the program ./nero_net_v3_teaching.py
 
-* use resulting network using the program ./nero_net_v3_using.py.It will display the number of guessed examples from the control group of samples.
+* use resulting network using the program ./nero_net_v3_using.py. It will display the number of guessed examples from the control group of samples.
 
 All programs are configured via their own json configuration files.
